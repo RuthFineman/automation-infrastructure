@@ -1,0 +1,5 @@
+reportportal.properties
+.env
+target/
+.idea/
+*.log
