@@ -1,5 +1,14 @@
+# secrets
 reportportal.properties
 .env
+
+# build
 target/
+
+# screenshots & artifacts
+screenshots/
+Annotation/screenshots/
+
+# IDE
 .idea/
 *.log
